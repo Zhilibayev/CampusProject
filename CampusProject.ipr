@@ -11,10 +11,18 @@
       <module fileurl="file://$PROJECT_DIR$/CampusProject.iml" filepath="$PROJECT_DIR$/CampusProject.iml" />
     </modules>
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/tmp/classes" />
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="1.6" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/tmp/classes" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+>>>>>>> 63bf0eab225405dd68f1e256bb24c313fc66e2d9
   </component>
 </project>
